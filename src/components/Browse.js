@@ -10,7 +10,6 @@ import useTrailer from '../Hooks/useTrailer'
 
 const Browse = () => {
   
-  useTrailer(787699);
   useNowPlayingMovies();  
   useTrendingMovies();
   usePopularMovies();
